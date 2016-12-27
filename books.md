@@ -2,7 +2,7 @@ The following is a list of free, open source books on machine learning, statisti
 
 ## Machine-Learning / Data Mining
 
-* [A Course in Machine Learning](http://ciml.info/)
+* [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 * [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
 * [A Quest for AI](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
