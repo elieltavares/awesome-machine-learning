@@ -12,7 +12,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Data Intensive Text Processing w/ MapReduce](http://lintool.github.io/MapReduceAlgorithms/)
 * [Data Mining - Practical Machine Learning Tools and Techniques](http://www.cse.hcmut.edu.vn/~chauvtn/data_mining/Texts/%5B7%5D%20Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20%283rd%20Ed%29.pdf) Book
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
-* [Forecasting: principles and practice](http://otexts.com/fpp/)
+* [Forecasting: principles and practice](http://otexts.com/fpp/) - R Code
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan
